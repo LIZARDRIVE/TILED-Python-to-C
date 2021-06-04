@@ -1,6 +1,6 @@
 # TILED-Python-to-C
 
-Simple Python tool to turn content of a Tiled export into C.
+Simple Python tool to turn content of an XML Tiled export into C.
 This may be useful in the context of developing a SEGA Genesis/Megadrive game in C with SGDK, while handling level design with Tiled.
 
 In our case, Tiled file contains 8x8 tiles which have a "walkable" attribute to indicated where the player is allowed to go on the map.
